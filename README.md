@@ -1,7 +1,6 @@
 # 🧩 MiniTrello SaaS API
 
-**Projeto Demo** em `.NET 8 Minimal API` inspirado no Trello, com foco em arquitetura SaaS multi-tenant, autenticação via Google, e integração com IA usando a API da DeepSeek. Ideal para apresentar skills modernas em backend com visão de produto e escalabilidade.
-
+**Projeto Demo** em `.NET 8 Minimal API` inspirado no Trello, com foco em arquitetura SaaS multi-tenant, autenticação via Google, e integração com IA usando a API da DeepSeek. 
 ---
 
 ## 🚀 Visão Geral
