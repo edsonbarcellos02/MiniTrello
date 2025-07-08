@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Infra\" />
+    <Folder Include="Dto\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+
 </Project>
